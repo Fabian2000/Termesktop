@@ -1,0 +1,16 @@
+bin/
+obj/
+*.user
+.vs/
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+
+# Build output
+publish/
+*.pdb
+
+# Local config
+.env
+.env.local
