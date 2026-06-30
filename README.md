@@ -2,7 +2,7 @@
 
 A full desktop environment that runs entirely in your terminal.
 
-Built with [TermuiX](https://github.com/stratos-vetsos/TermuiX), a .NET terminal UI library. Fully usable over SSH — giving headless servers a graphical desktop without exposing anything through a hosted web interface.
+Built with [TermuiX](https://github.com/Fabian2000/Termui), a .NET terminal UI framework by Fabian Schlüter. Fully usable over SSH — giving headless servers a graphical desktop without exposing anything through a hosted web interface.
 
 > ℹ️ **About this project**
 > - **Primarily developed and tested on Linux.** The codebase is cross-platform (builds for Linux, macOS, Windows) but Linux is the main target. Some features — especially the Terminal's PTY handling — rely on Unix-specific APIs and may not be fully functional on macOS or Windows.
